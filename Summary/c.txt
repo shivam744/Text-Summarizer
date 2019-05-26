@@ -1,0 +1,90 @@
+For other uses, see Engineering (disambiguation).
+
+The steam engine, a major driver in the Industrial Revolution, underscores the importance of engineering in modern history. This beam engine is on display in the Technical University of Madrid.
+Engineering is the creative application of science, mathematical methods, and empirical evidence to the innovation, design, construction, operation and maintenance of structures, machines, materials, devices, systems, processes, and organizations. The discipline of engineering encompasses a broad range of more specialized fields of engineering, each with a more specific emphasis on particular areas of applied mathematics, applied science, and types of application. See glossary of engineering.
+
+The term engineering is derived from the Latin ingenium, meaning "cleverness" and ingeniare, meaning "to contrive, devise".[1]
+
+Contents 
+1	Definition
+2	History
+2.1	Ancient era
+2.2	Renaissance era
+2.3	Modern era
+3	Main branches of engineering
+3.1	Chemical engineering
+3.2	Civil engineering
+3.3	Electrical engineering
+3.4	Mechanical engineering
+3.5	Other branches
+4	Practice
+5	Methodology
+5.1	Problem solving
+5.2	Computer use
+6	Social context
+6.1	Code of ethics
+7	Relationships with other disciplines
+7.1	Science
+7.2	Medicine and biology
+7.3	Art
+7.4	Business
+7.5	Other fields
+8	See also
+9	References
+10	Further reading
+11	External links
+Definition
+The American Engineers' Council for Professional Development (ECPD, the predecessor of ABET)[2] has defined "engineering" as:
+
+The creative application of scientific principles to design or develop structures, machines, apparatus, or manufacturing processes, or works utilizing them singly or in combination; or to construct or operate the same with full cognizance of their design; or to forecast their behavior under specific operating conditions; all as respects an intended function, economics of operation and safety to life and property.[3][4]
+
+History
+Main article: History of engineering
+
+Relief map of the Citadel of Lille, designed in 1668 by Vauban, the foremost military engineer of his age.
+Engineering has existed since ancient times, when humans devised inventions such as the wedge, lever, wheel and pulley.
+
+The term engineering is derived from the word engineer, which itself dates back to 1390 when an engine'er (literally, one who operates an engine) referred to "a constructor of military engines."[5] In this context, now obsolete, an "engine" referred to a military machine, i.e., a mechanical contraption used in war (for example, a catapult). Notable examples of the obsolete usage which have survived to the present day are military engineering corps, e.g., the U.S. Army Corps of Engineers.
+
+The word "engine" itself is of even older origin, ultimately deriving from the Latin ingenium (c. 1250), meaning "innate quality, especially mental power, hence a clever invention."[6]
+
+Later, as the design of civilian structures, such as bridges and buildings, matured as a technical discipline, the term civil engineering[4] entered the lexicon as a way to distinguish between those specializing in the construction of such non-military projects and those involved in the discipline of military engineering.
+
+Ancient era
+
+The Ancient Romans built aqueducts to bring a steady supply of clean and fresh water to cities and towns in the empire.
+The pyramids in Egypt, the Acropolis and the Parthenon in Greece, the Roman aqueducts, Via Appia and the Colosseum, Teotihuacán, the Great Wall of China, the Brihadeeswarar Temple of Thanjavur, among many others, stand as a testament to the ingenuity and skill of ancient civil and military engineers. Other monuments, no longer standing, such as the Hanging Gardens of Babylon, and the Pharos of Alexandria were important engineering achievements of their time and were considered among the Seven Wonders of the Ancient World.
+
+The earliest civil engineer known by name is Imhotep.[4] As one of the officials of the Pharaoh, Djosèr, he probably designed and supervised the construction of the Pyramid of Djoser (the Step Pyramid) at Saqqara in Egypt around 2630–2611 BC.[7] Ancient Greece developed machines in both civilian and military domains. The Antikythera mechanism, the first known mechanical computer,[8][9] and the mechanical inventions of Archimedes are examples of early mechanical engineering. Some of Archimedes' inventions as well as the Antikythera mechanism required sophisticated knowledge of differential gearing or epicyclic gearing, two key principles in machine theory that helped design the gear trains of the Industrial Revolution, and are still widely used today in diverse fields such as robotics and automotive engineering.[10]
+
+Ancient Chinese, Greek, Roman and Hungarian armies employed military machines and inventions such as artillery which was developed by the Greeks around the 4th century B.C.,[11] the trireme, the ballista and the catapult. In the Middle Ages, the trebuchet was developed.
+
+Renaissance era
+The first steam engine was built in 1698 by Thomas Savery.[12] The development of this device gave rise to the Industrial Revolution in the coming decades, allowing for the beginnings of mass production.
+
+With the rise of engineering as a profession in the 18th century, the term became more narrowly applied to fields in which mathematics and science were applied to these ends. Similarly, in addition to military and civil engineering, the fields then known as the mechanic arts became incorporated into engineering.
+
+Modern era
+
+The International Space Station represents a modern engineering challenge for many disciplines.
+The inventions of Thomas Newcomen and James Watt gave rise to modern mechanical engineering. The development of specialized machines and machine tools during the industrial revolution led to the rapid growth of mechanical engineering both in its birthplace Britain and abroad.[4]
+
+
+Structural engineers working on NASA's Mars-bound spacecraft, the Phoenix Mars Lander
+John Smeaton was the first self-proclaimed civil engineer and is often regarded as the "father" of civil engineering. He was an English civil engineer responsible for the design of bridges, canals, harbours, and lighthouses. He was also a capable mechanical engineer and an eminent physicist. Smeaton designed the third Eddystone Lighthouse (1755–59) where he pioneered the use of 'hydraulic lime' (a form of mortar which will set under water) and developed a technique involving dovetailed blocks of granite in the building of the lighthouse. His lighthouse remained in use until 1877 and was dismantled and partially rebuilt at Plymouth Hoe where it is known as Smeaton's Tower. He is important in the history, rediscovery of, and development of modern cement, because he identified the compositional requirements needed to obtain "hydraulicity" in lime; work which led ultimately to the invention of Portland cement.
+
+The United States census of 1850 listed the occupation of "engineer" for the first time with a count of 2,000.[13] There were fewer than 50 engineering graduates in the U.S. before 1865. In 1870 there were a dozen U.S. mechanical engineering graduates, with that number increasing to 43 per year in 1875. In 1890, there were 6,000 engineers in civil, mining, mechanical and electrical.[14]
+
+There was no chair of applied mechanism and applied mechanics at Cambridge until 1875, and no chair of engineering at Oxford until 1907. Germany established technical universities earlier.[15]
+
+The foundations of electrical engineering in the 1800s included the experiments of Alessandro Volta, Michael Faraday, Georg Ohm and others and the invention of the electric telegraph in 1816 and the electric motor in 1872. The theoretical work of James Maxwell (see: Maxwell's equations) and Heinrich Hertz in the late 19th century gave rise to the field of electronics. The later inventions of the vacuum tube and the transistor further accelerated the development of electronics to such an extent that electrical and electronics engineers currently outnumber their colleagues of any other engineering specialty.[4] Chemical engineering developed in the late nineteenth century.[4] Industrial scale manufacturing demanded new materials and new processes and by 1880 the need for large scale production of chemicals was such that a new industry was created, dedicated to the development and large scale manufacturing of chemicals in new industrial plants.[4] The role of the chemical engineer was the design of these chemical plants and processes.[4]
+
+
+The Falkirk Wheel in Scotland
+Aeronautical engineering deals with aircraft design process design while aerospace engineering is a more modern term that expands the reach of the discipline by including spacecraft design. Its origins can be traced back to the aviation pioneers around the start of the 20th century although the work of Sir George Cayley has recently been dated as being from the last decade of the 18th century. Early knowledge of aeronautical engineering was largely empirical with some concepts and skills imported from other branches of engineering.[16]
+
+The first PhD in engineering (technically, applied science and engineering) awarded in the United States went to Josiah Willard Gibbs at Yale University in 1863; it was also the second PhD awarded in science in the U.S.[17]
+
+Only a decade after the successful flights by the Wright brothers, there was extensive development of aeronautical engineering through development of military aircraft that were used in World War I. Meanwhile, research to provide fundamental background science continued by combining theoretical physics with experiments.
+
+In 1990, with the rise of computer technology, the first search engine was built by computer engineer Alan Emtage.
